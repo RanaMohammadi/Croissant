@@ -29,5 +29,6 @@ img {
 }
 .email {
   text-align: center;
+  display: block;
   font-size: 30px;
 }
